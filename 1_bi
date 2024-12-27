@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conteúdos do 1° Bimestre</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin: 15px 0;
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #e2e2e2;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conteúdos do 1° Bimestre</h1>
+    
+    <h2>Impacto das Tecnologias Digitais na Vida Cotidiana</h2>
+    <ul>
+        <li>Compreender o impacto das tecnologias digitais na vida cotidiana dos indivíduos.</li>
+        <li>Analisar como as tecnologias e redes sociais interferem na saúde física e mental dos usuários.</li>
+        <li>Desenvolver habilidades críticas e reflexivas em relação ao uso de tecnologias digitais.</li>
+    </ul>
+
+    <h2>Comportamento Online e Suas Implicações</h2>
+    <ul>
+        <li>Investigar o comportamento online dos indivíduos por meio de dados e estatísticas.</li>
+        <li>Compreender como as relações entre sujeitos e grupos são afetadas pela tecnologia digital.</li>
+        <li>Promover atitudes éticas e respeito às diferenças culturais e pessoais na interação online.</li>
+    </ul>
+
+    <h2>Impactos Multidimensionais da Tecnologia</h2>
+    <ul>
+        <li>Explorar os impactos multidimensionais da tecnologia na sociedade e na vida dos indivíduos.</li>
+        <li>Analisar como as transformações tecnológicas e informacionais afetam diferentes aspectos da vida contemporânea.</li>
+        <li>Promover uma compreensão crítica e reflexiva das implicações da tecnologia nas áreas social, cultural, ambiental e individual.</li>
+    </ul>
+
+    <h2>Recursos de Apoio</h2>
+    <ul>
+        <li>Debates e Fóruns Online</li>
+        <li>Documentários e Vídeos</li>
+        <li>Uso de Dados em Escala</li>
+        <li>Aplicativos de Design e Modelagem</li>
+        <li>Aplicativos de Estatísticas e Gráficos</li>
+        <li>Estudos de Caso</li>
+    </ul>
+
+    <h2>Instrumentos Avaliativos</h2>
+    <ul>
+        <li>Análise de Casos Reais</li>
+        <li>Entrevista com Especialistas</li>
+        <li>Projetos Criativos</li>
+        <li>Debates Temáticos</li>
+        <li>Simulações de Cenários Futuros</li>
+        <li>Acompanhamento de Tendências Digitais</li>
+        <li>Pesquisa Empírica</li>
+        <li>Resolução de Problemas Éticos</li>
+        <li>Portfólio Reflexivo</li>
+        <li>Jogos Educativos</li>
+    </ul>
+
+    <h2>Leituras</h2>
+    <ul>
+        <li>Kuss, D.J. et al, Artigo: O Uso Excessivo de Smartphones e seus Efeitos na Saúde Mental. Este artigo examina as implicações do uso excessivo de smartphones na saúde mental, incluindo vícios em dispositivos móveis e o impacto no bem-estar.</li>
+        <li>Nicole B. Ellison e Charles Steinfield, Artigo: Comportamento Online e Implicações Sociais. Este artigo acadêmico explora as implicações sociais do comportamento online, incluindo como as redes sociais e outras plataformas online afetam nossas vidas.</li>
+    </ul>
+</body>
+</html>
